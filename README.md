@@ -1,5 +1,8 @@
 # DaZongDianPing
 此项目用来厦门美食商铺信息，其中包含店名、人均消费、所属菜系、所属商圈、详细地址、口味评分、环境评分、服务评分信息。
+# 部分结果展示
+![](https://github.com/cyhleo/DaZongDianPing/blob/master/mongodbResult.png)
+
 # 项目说明：
 1. 使用scrapy框架来编写爬虫程序
 
